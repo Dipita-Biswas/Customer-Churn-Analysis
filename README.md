@@ -96,8 +96,10 @@ These clusters were later visualized in Tableau to help tailor retention strateg
 
 ### Tableau Dashboard & Insights 
 
+![Customer Churn Dashboard](customer_churn_dashboard.png)
 
-#### Churn by Contract Type
+
+#### Churn Vs Contract Type
 - **Description**: A stacked bar chart showing churn probability by contract length (month-to-month, one year, two year).
 - **Insight**: Customers on **month-to-month contracts** have significantly higher churn. Retention campaigns should focus on converting them to longer-term contracts.
 
@@ -123,6 +125,21 @@ These clusters were later visualized in Tableau to help tailor retention strateg
 #### Churn Vs Monthly Charges by Segment
 - **Description**: Shows churn probability across monthly charge bins, broken down by segment.
 - **Insight**: Customers with **higher monthly charges are more likely to churn**. Bundled service discounts or loyalty incentives may help reduce churn in this segment.
+
+---
+
+### Key Insights & Business Recommendations
+
+- **Contract Type Matters**: Month-to-month contracts had the highest churn rates. Consider loyalty incentives for these users.
+- **High Churn Risk = High Charges + Low Tenure**: Customers who recently joined and pay more tend to churn. Introduce onboarding discounts or support for these segments.
+- **Tenure Drives Retention**: Long-tenure customers with low monthly charges are the most loyal. Strengthen engagement programs for this group.
+- **Segmented Strategies Work**: Cluster analysis revealed four clear customer groups which enables personalized retention campaigns.
+
+---
+
+This analysis combines technical modeling and business intuition to uncover actionable insights for improving customer retention. It demonstrates the value of analytics in guiding strategic decisions and enhancing customer experience.
+
+
 
 
 
