@@ -1,1 +1,2 @@
-
+Customer Churn Analysis Project
+This project analyzes customer churn behavior using a telecom dataset to uncover patterns, predict churn probability, and identify actionable insights. It demonstrates end-to-end analytics capabilities including exploratory analysis, feature engineering, predictive modeling, and customer segmentation using Python and Tableau. The goal is to help businesses proactively reduce churn and retain valuable customers by identifying at-risk segments and understanding churn drivers. The dataset is taken from Kaggle: https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download
